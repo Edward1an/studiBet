@@ -8,7 +8,7 @@ pub use instructions::*;
 
 pub mod error;
 
-declare_id!("5RoVruk757C3LWt6ZVXajctxrqTDdGJEEmH1sh5qDTPL");
+declare_id!("Vpu9Xo1BZnAzjE4NiNhxT62R7qoL5aZ4Rd94x2oYQUs");
 
 #[program]
 pub mod price_betting {
